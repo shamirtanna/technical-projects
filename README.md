@@ -20,7 +20,7 @@ An autonomous AI agent that conducts multi-step research by planning searches, e
 
 **What I Learned:**
 - How to design agentic workflows
-- API integration patterns in both JavaScript and Python
+- API integration patterns in Python
 - State management and data persistence
 - Translating product requirements into technical implementation
 
