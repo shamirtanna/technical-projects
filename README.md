@@ -16,7 +16,7 @@ An autonomous AI agent that conducts multi-step research by planning searches, e
 - Intelligent synthesis of findings
 - Persistent storage
 
-**Tech Stack:** React, Python, Claude API, Google Colab
+**Tech Stack:** Python, Claude API, Google Colab
 
 **What I Learned:**
 - How to design agentic workflows
@@ -26,3 +26,22 @@ An autonomous AI agent that conducts multi-step research by planning searches, e
 
 ---
 
+## 2. 📰 News Intelligence Hub
+
+An AI-powered news analysis system that processes articles at scale using Google Gemini API for automated summarization, sentiment analysis, and trend detection.
+
+**News-Intelligence_Hub.ipynb**
+
+**Key Features:**
+* Multi-source article analysis and comparison
+* Automated summarization with custom prompt engineering
+* Sentiment tracking and trend identification
+* Async batch processing for efficiency
+
+**Tech Stack:** Python, Gemini API, Pandas, Jupyter, Google Colab
+
+**What I Learned:**
+* Prompt engineering for structured outputs
+* Working with large language model APIs
+* Designing batch processing workflows
+* Data analysis and visualization for news content
