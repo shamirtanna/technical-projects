@@ -1,6 +1,6 @@
 # technical-projects
 
-Hi! I'm Shamir Tanna, a Product Manager who builds AI prototypes to deeply understand the technology.
+Hi! I'm Shamir Tanna, a Product Manager who builds AI prototypes to deeply understand the technology and test out potentially valuable ideas for customers and society.
 
 ## Projects
 
